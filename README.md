@@ -57,5 +57,3 @@ dan harus di cermati berani memakai berani menanggung resiko keep smart brody.
 
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-ChatGPT
-ChatGPT
